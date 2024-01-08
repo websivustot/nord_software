@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "name": "George Clooney",
+        "emailAddress": "clooney@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "2",
+        "name": "John Doe",
+        "emailAddress": "doe@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "3",
+        "name": "George Clooney",
+        "emailAddress": "clooney@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "4",
+        "name": "John Doe",
+        "emailAddress": "doe@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "5",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "6",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "7",
+        "name": "George Clooney",
+        "emailAddress": "clooney@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "8",
+        "name": "John Doe",
+        "emailAddress": "doe@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "9",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "10",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "11",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "12",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "13",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "14",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "15",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "16",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "17",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "18",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "19",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    },
+    {
+        "id": "20",
+        "name": "Pekka",
+        "emailAddress": "pekka@gmail.com",
+        "phoneNumber": "+358123456789"
+    }
+]

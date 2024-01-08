@@ -1,0 +1,43 @@
+.inline-form {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.inline-form input {
+  flex: 2;
+  background-color: #fafafa;
+  border: 1px solid #f1f1f1;
+  height: 40px;
+  font-size: 16px;
+  line-weight: 24px;
+  font-weight: 400;
+  color: #505050;
+  padding-left: 16px;
+}
+.inline-form button {
+  flex: 1;
+  background-color: #ededed;
+  border: 1px solid #f1f1f1;
+  height: 40px;
+  font-size: 16px;
+  line-weight: 24px;
+  font-weight: 600;
+  color: #505050;
+}
+
+.inline-form button:hover {
+  cursor: pointer;
+}
+
+.inline-form .cancel-button {
+  color: #07f;
+  background-color: #ededed;
+}
+
+.inline-form .save-button {
+  background-color: #07f;
+  color: #ffffff;
+}

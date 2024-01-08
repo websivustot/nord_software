@@ -1,0 +1,23 @@
+svg line {
+  stroke-width: 16;
+  stroke: #adb5bd;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+  margin: 32px 18px 32px 0px;
+}
+
+.logo img {
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 912px) {
+  .logo {
+    width: 32px;
+    height: 32px;
+    margin: 32px 18px 32px 32px;
+  }
+}

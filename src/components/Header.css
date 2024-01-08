@@ -1,0 +1,19 @@
+header {
+  background-color: #adb5bd;
+}
+
+header .header-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 912px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+
+.header-text {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 90px;
+}
