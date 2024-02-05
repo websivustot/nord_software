@@ -1,6 +1,7 @@
 # Nord Software
 
 Test assignment for the job.
+Check it out: https://websivustot.github.io/ns/
 
 ## How to run
 
